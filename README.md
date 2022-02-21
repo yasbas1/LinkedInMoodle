@@ -4,3 +4,6 @@ Project includes Analysis,EER,Mapping,Relational Model and SQL Statements.
 
 
 ![EER](https://user-images.githubusercontent.com/75332138/154979554-df9c97ee-3168-4083-b9e2-c354e518c8d8.jpg)
+
+
+![0001](https://user-images.githubusercontent.com/75332138/154979914-f25ac0e8-a995-402e-9e02-81a57f75cbd7.jpg)
